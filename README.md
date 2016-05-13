@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Redux Middlewares
 
 ##Getting Started###
 
